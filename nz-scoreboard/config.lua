@@ -15,8 +15,8 @@ Config = Config or {}
 
 Config.showIdPlayer = false
 
--- Open scoreboard key
-Config.OpenKey = Keys["HOME"]
+-- Open scoreboard key (F10 used on most servers)
+Config.OpenKey = Keys["F10"]
 
 
 -- Max Server Players
